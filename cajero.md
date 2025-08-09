@@ -4,7 +4,7 @@
 - Mermaid código
 - Flowchart
 
-###Pseudocódigo
+### Pseudocódigo
 
 ```
 Algoritmo cajero
@@ -22,7 +22,7 @@ Algoritmo cajero
 FinAlgoritmo
 ```
 
-###Mermaid codigo
+### Mermaid codigo
 ```
 flowchart TD
     A(["Inicio"]) --> B["Definir dinero = 800"]
